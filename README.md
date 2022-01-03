@@ -1,7 +1,15 @@
-### Hi there 👋
+<h2>Hi ~</h2>
+
+Something inspriational and quirky goes here. 
+
+---
+
+<img src='https://visitor-badge.glitch.me/badge?page_id=Andrew-Pynch.Andrew-Pynch'/>
+
+![波比小金刚's GitHub stats](https://github-readme-stats.vercel.app/api?username=Andrew-Pynch&count_private=trueshow_icons=true&theme=dracula)
 
 <!--
-**Andrew-Pynch/Andrew-Pynch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**cbbfcd/cbbfcd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
